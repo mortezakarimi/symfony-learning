@@ -6,7 +6,7 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "sensio/framework-extra-bundle": "^5.5",
-        "symfony/console": "4.4.*",
+        "symfony/console": "7.0.*",
         "symfony/dotenv": "4.4.*",
         "symfony/flex": "^1.6",
         "symfony/framework-bundle": "4.4.*",
